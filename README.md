@@ -19,7 +19,7 @@ use: AE 20~24
 
 ![alt text](./DPL_MenuLuncher/install_tutorial.gif)
 
-## :book:DPL_MenuLuncher
+## :book:DPL_StarList
 
 ## 一个星标文件启动器,用于快速启动expression, ffx, script文件.右键设置按钮打开配置文件, 脚本依赖读取路径打开文件
 
