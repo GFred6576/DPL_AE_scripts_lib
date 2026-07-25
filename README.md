@@ -13,10 +13,17 @@ use: AE 20~24
 
 ## :book:DPL_MenuLuncher
 
-一个脚本启动器, 识别ScriptUI文件夹中的\*.jsx脚本,点击列表调用菜单命令打开相应脚本
-![alt text](./DPL_MenuLuncher/preview.png)
--
+## 一个脚本启动器, 识别ScriptUI文件夹中的\*.jsx脚本,点击列表调用菜单命令打开相应脚本
+
+## ![alt text](./DPL_MenuLuncher/preview.png)
+
 ![alt text](./DPL_MenuLuncher/install_tutorial.gif)
+
+## :book:DPL_MenuLuncher
+
+## 一个星标文件启动器,用于快速启动expression, ffx, script文件.右键设置按钮打开配置文件, 脚本依赖读取路径打开文件
+
+![alt text](./DPL_StarList/image_1.png)
 
 # 📚散装脚本
 
@@ -24,11 +31,11 @@ use: AE 20~24
 
 - 当前AE版本多个输出项目只能手动更改每个输出路径，此脚本用于批量更改渲染队列项目的输出路径。
 
-# :book:DPL_Collect_File
+# :book:DPL_CollectFile
 
 Collect the project window files to the custom Folders.
 
-![Snipaste_2025-04-01_00-19-59](https://github.com/user-attachments/assets/ef53a3b0-6aa5-4aca-aa1a-86dba43dc72a)
+![alt text](./DPL_Samples/DPL_CollectFile.png)
 
 ## 使用：
 
@@ -58,7 +65,7 @@ Collect the project window files to the custom Folders.
 
 # :book:DPL_HotKeyZoom
 
-![image_153](https://github.com/user-attachments/assets/04cd43e5-6003-40ed-b99e-11a8f073ff21)
+![alt text](./DPL_Samples/DPL_HotKeyZoom.png)
 一个简单的AE视图缩放脚本
 
 ## 使用说明：
