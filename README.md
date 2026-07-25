@@ -25,6 +25,19 @@ use: AE 20~24
 
 ![alt text](./DPL_StarList/image_1.png)
 
+## :book:DPL_Fit
+
+触发fit, 右键打开设置菜单
+
+![alt text](./DPL_Fit/preview.png)
+
+## :book:Sp_Toolbar
+
+修改自smallPath的ae脚本
+根据我自己的需求增加了部分功能(单栏导入导出、支持脚本多开、可以手动修复编码等)以及修改了部分bug(图标对位补齐、编码问题导致脚本冲突等)
+
+- ![alt text](./Sp_Toolbar/preview.png)
+
 # 📚散装脚本
 
 # :book:DPL_MultPathRender
