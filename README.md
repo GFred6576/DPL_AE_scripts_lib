@@ -38,6 +38,13 @@ use: AE 20~24
 
 - ![alt text](./Sp_Toolbar/preview.png)
 
+## :book:DPL_BinaryImage
+读取字符/转换字符>>照片
+![alt text](./DPL_BinaryImage/preview.png)
+
+
+
+
 # 📚散装脚本
 
 # :book:DPL_MultPathRender
